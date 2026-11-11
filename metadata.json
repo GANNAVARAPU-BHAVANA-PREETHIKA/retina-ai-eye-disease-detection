@@ -1,0 +1,5 @@
+{
+  "name": "RetinaAI - Macular Disorder Detection",
+  "description": "A hybrid medical imaging tool using Gemini 2.0 Flash for primary multimodal analysis, backed by a user-trainable local SVM validator.",
+  "requestFramePermissions": []
+}
